@@ -1,0 +1,8 @@
+# Ignore model checkpoints
+model/
+
+# Ignore dataset files
+data/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
